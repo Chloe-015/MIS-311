@@ -24,3 +24,8 @@ The dataset comprises 251 rows and 5 columns, containing both categorical variab
 <img width="677" height="191" alt="image" src="https://github.com/user-attachments/assets/848da7b9-c394-48e7-b2a1-0bb02973f29b" />
 
 This dataset was chosen because it demonstrates how data analytics can be applied to understand academic performance trends and assess the influence of demographic factors on educational outcomes, supporting data-driven decision making in education and policy contexts.
+## 2. Data Overview
+- Missing values were identified using Excel’s Filter function to check for blank entries in each variable. No missing values were found, therefore no data imputation or record removal was required.
+
+- Duplicate rows were identified using Excel’s Remove Duplicates tool applied across all columns. The results showed no duplicate records, so all observations were retained for subsequent analysis.
+## 3. Descriptive Statistics 
