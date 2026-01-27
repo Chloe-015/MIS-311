@@ -33,6 +33,7 @@ This dataset was chosen because it demonstrates how data analytics can be applie
 I use Excel Power Query to indentify the missing value:
 
 There are 2 null values of parental_level_of_education. As frequency analysis showed no single most frequent category, with _associate’s degree_ and _some college_ occurring with equal highest frequency, a unique mode could not be determined; therefore, the missing values were replaced with “Unknown” to ensure data completeness while maintaining data integrity.
+
 <img width="269" height="85" alt="image" src="https://github.com/user-attachments/assets/4d7467b7-b5af-4289-a109-e72556e889a3" />
 
 There are 4 null values of average_score. Missing values in the average_score variable were resolved using Excel Power Query by recalculating the column through a custom formula based on math, reading, and writing scores, with the results rounded to two decimal places to preserve numerical accuracy.
