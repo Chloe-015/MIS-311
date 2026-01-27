@@ -41,4 +41,6 @@ There are 4 null values of average_score. Missing values in the average_score va
 <img width="179" height="136" alt="image" src="https://github.com/user-attachments/assets/9faff2a9-c210-4544-8eab-4b45761b88c8" />
 
 - Duplicate rows
+
+Duplicate rows were identified and removed using Excel Power Query by applying the Remove Duplicates function across all columns, ensuring that only unique student records were retained for analysis.
 ## 3. Descriptive Statistics 
